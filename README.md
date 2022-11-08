@@ -1,5 +1,3 @@
-# project-react-native-structure
-=======
 # REACT NATIVE PROJECT STRUCTURE
 ## Assets
 Here you can put some images and other datas
